@@ -2,6 +2,7 @@ resolver: lts-13.12
 pvp-bounds: upper
 packages:
 - '.'
+- 'lib/purescript-parser'
 extra-deps:
 - network-3.0.1.1
 nix:
